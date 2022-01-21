@@ -1,0 +1,180 @@
+{
+    "updated_time": "Updated Time - 4.10.21 (12:30) PM",
+    "usa": [
+        {
+            "name": "WK Exchanger",
+            "buy": 2280,
+            "sell": 2380
+        },
+        {
+            "name": "Golden Yoma Exchanger",
+            "buy": 2320,
+            "sell": 2400
+        },
+        {
+            "name": "KBZ",
+            "buy": 1950,
+            "sell": 1980
+        },
+        {
+            "name": "AYA",
+            "buy": 1973,
+            "sell": 1990
+        },
+        {
+            "name": "AGD",
+            "buy": 1970,
+            "sell": 1995
+        }
+    ],
+    "eur": [
+        {
+            "name": "WK Exchanger",
+            "buy": 2300,
+            "sell": 2500
+        },
+        {
+            "name": "Golden Yoma Exchanger",
+            "buy": 2400,
+            "sell": 2600
+        },
+        {
+            "name": "KBZ",
+            "buy": 2070,
+            "sell": 2110
+        },
+        {
+            "name": "AYA",
+            "buy": 2236,
+            "sell": 2253
+        },
+        {
+            "name": "AGD",
+            "buy": 2590,
+            "sell": 2620
+        }
+    ],
+    "sgd": [
+        {
+            "name": "Facebook (Cash)",
+            "buy": 1520,
+            "sell": 1540
+        },
+        {
+            "name": "Facebook (Mobile Banking)",
+            "buy": 1610,
+            "sell": 1630
+        },
+        {
+            "name": "WK Exchanger",
+            "buy": 1490,
+            "sell": 1595
+        },
+        {
+            "name": "Golden Yoma Exchanger",
+            "buy": 1400,
+            "sell": 1450
+        },
+        {
+            "name": "KBZ",
+            "buy": 1360,
+            "sell": 1390
+        },
+        {
+            "name": "AYA",
+            "buy": 1415,
+            "sell": 1426
+        },
+        {
+            "name": "AGD",
+            "buy": 1570,
+            "sell": 1600
+        }
+    ],
+    "thb": [
+        {
+            "name": "Facebook (Cash)",
+            "buy": 60,
+            "sell": 62
+        },
+        {
+            "name": "Facebook (Mobile Banking)",
+            "buy": 62,
+            "sell": 63
+        },
+        {
+            "name": "WK Exchanger",
+            "buy": 60,
+            "sell": 66
+        },
+        {
+            "name": "Golden Yoma Exchanger",
+            "buy": 61,
+            "sell": 66
+        },
+        {
+            "name": "KBZ",
+            "buy": 51,
+            "sell": 56
+        },
+        {
+            "name": "AGD",
+            "buy": 63,
+            "sell": 68
+        }
+    ],
+    "myr": [
+        {
+            "name": "WK Exchanger",
+            "buy": 470,
+            "sell": 500
+        },
+        {
+            "name": "Golden Yoma Exchanger",
+            "buy": 470,
+            "sell": 510
+        }
+    ],
+    "cny": [
+        {
+            "name": "WK Exchanger",
+            "buy": 315,
+            "sell": 335
+        },
+        {
+            "name": "Golden Yoma Exchanger",
+            "buy": 300,
+            "sell": 340
+        }
+    ],
+    "jpy": [
+        {
+            "name": "WK Exchanger",
+            "buy": 18,
+            "sell": 20
+        },
+        {
+            "name": "Golden Yoma Exchanger",
+            "buy": 17,
+            "sell": 19.5
+        }
+    ],
+    "gold": [
+        {
+            "amount": "15PY (Aung Thamardi)",
+            "price": "1,769,400"
+        },
+        {
+            "amount": "16PY (Aung Thamardi)",
+            "price": "1,865,000"
+        },
+        {
+            "amount": "15PY (Zwe Htet)",
+            "price": "1,750,500"
+        },
+        {
+            "amount": "16PY (Zwe Htet)",
+            "price": "1,880,000"
+        }
+    ]
+}
